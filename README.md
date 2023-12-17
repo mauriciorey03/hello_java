@@ -24,5 +24,5 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 [^1]:Seguimiento.
 - [x] Creación del repositorio
-- [x] Actualización:shipit:
+- [x] Actualización :shipit:
 - [ ] Culminación :tada:
