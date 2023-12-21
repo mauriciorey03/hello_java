@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class i_pitagoras {
+public class i_Pitagoras {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in); // Define el input
         double a, b, c; // declara el type de los parametros
